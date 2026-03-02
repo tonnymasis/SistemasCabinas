@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.next\\types",
+    "\\app",
+    "\\app\\api",
+    "\\app\\api\\bookings",
+    "\\app\\api\\bookings\\[id]",
+    "\\app\\cabin",
+    "\\app\\cabin\\[id]"
+  ],
+  "SelectedNode": "\\app\\api\\bookings\\route.ts",
+  "PreviewInSolutionExplorer": false
+}
