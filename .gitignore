@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# IDE and Editor files
+.vs/
+.vscode/
+*.swp
+*.swo
+
+# Project specific - Local backup files (keep data.json but ignore backups)
+data/*.backup-*
+data/*.daily-*
